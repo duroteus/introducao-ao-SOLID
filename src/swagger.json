@@ -81,7 +81,9 @@
                                     "properties": {
                                         "error": "string"
                                     },
-                                    "example": "User already exists."
+                                    "example": {
+                                        "error": "User already exists."
+                                    }
                                 }
                             }
                         }
